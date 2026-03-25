@@ -18,7 +18,7 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+## About JRWA Archive
 
 This Archive Compiles a collection of Historic and Contemporary Documents and Resources, Collected by the JRWA team. We hope it helps in your research endeavors
 
