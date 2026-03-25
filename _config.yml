@@ -53,7 +53,7 @@ metadata: metadata
 organization-name: Jordan River Watershed Awareness (JRWA)
 organization-link: https://jrwa.ca/
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: 01_jrwa_logo_white.png
+organization-logo-banner: /objects/01_jrwa_logo_white.png
 organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
 
 ##########
